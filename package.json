@@ -1,0 +1,27 @@
+{
+  "name": "contextual-sponsor-matching-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceeg1/contextual-sponsor-matching-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ceeg1/contextual-sponsor-matching-engine/issues"
+  },
+  "homepage": "https://github.com/Ceeg1/contextual-sponsor-matching-engine#readme",
+  "dependencies": {
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}
